@@ -1,0 +1,7 @@
+{
+  "greeting": "Hola",
+  "welcome_message": "¡Bienvenido a Pulsur!",
+  "submit_button": "Enviar",
+  "cancel_button": "Cancelar",
+  "error_message": "Ocurrió un error. Por favor, inténtalo de nuevo."
+}
